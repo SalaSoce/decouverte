@@ -11407,10 +11407,20 @@ header.mastheadDAKAR {
   background-attachment: scroll;
   background-size: cover;
 }
-header.mastheadSL {
+
+header.mastheadzig {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
-  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.1) 0%, rgba(92, 77, 66, 0.1) 100%), url("../assets/img/Sl.jpg");
+  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.1) 0%, rgba(92, 77, 66, 0.1) 100%), url("../assets/img/zig.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+header.mastheadTH {
+  padding-top: 10rem;
+  padding-bottom: calc(10rem - 4.5rem);
+  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.1) 0%, rgba(92, 77, 66, 0.1) 100%), url("../assets/img/th.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
